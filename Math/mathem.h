@@ -9,7 +9,8 @@
 #ifndef MATHEMH
 #define MATHEMH
 
-/// Color for RGB and HSV
+/// Stpres color for RGB or HSV.
+// - Values:
 // RGB = [0, 255]
 // H = [0, 359]
 // SV = [0, 100]

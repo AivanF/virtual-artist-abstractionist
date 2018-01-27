@@ -1,6 +1,6 @@
 /*
 LodePNG version 20140609
-
+ 
 Copyright (c) 2005-2014 Lode Vandevenne
 
 This software is provided 'as-is', without any express or implied

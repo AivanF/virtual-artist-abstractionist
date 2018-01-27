@@ -1,6 +1,6 @@
 //
 //  mem.h
-//  Math expression maker.
+//  Math expression creator.
 //  Namespace and classes definition.
 //
 //  Created by Aivan on 15.12.14.

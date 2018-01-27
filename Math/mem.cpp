@@ -1,6 +1,6 @@
 //
 //  mem.cpp
-//  Math expression maker.
+//  Math expression creator.
 //  Classes implementation.
 //
 //  Created by Aivan on 15.12.14.

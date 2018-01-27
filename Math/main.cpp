@@ -95,7 +95,7 @@ void MakeImageMany(const char name[], int width, int height,
 }
 
 
-/// Entry point.
+/// Program entry point.
 int main(int argc, const char * argv[]) {
     srand((unsigned int)time(NULL));
     

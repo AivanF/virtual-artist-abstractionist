@@ -1,6 +1,7 @@
 //
 //  islepng.h
-//  An abstraction for images manipultaions and LodePNG created by Lode Vandevenne.
+//  An abstraction for images manipultaions.
+//  Uses LodePNG created by Lode Vandevenne.
 //
 //  Created by Aivan on 28.07.14.
 //  Copyright (c) 2014 AivanF. All rights reserved.
