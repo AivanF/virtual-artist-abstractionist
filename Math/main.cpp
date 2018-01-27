@@ -1,10 +1,28 @@
-//
-//  main.cpp
-//  Random abstract pictures generator.
-//
-//  Created by Aivan on 13.11.14.
-//  Copyright (c) 2014 AivanF. All rights reserved.
-//
+/*
+ main.cpp
+ 
+ Random abstract pictures generator.
+ 
+ Created by Aivan on 13.11.14.
+ Copyright AivanF. (c) 2014-2018
+ 
+ This code is provided 'as-is', without any express or implied warranty.
+ You may not hold the author liable.
+ 
+ Permission is granted to anyone to use this software for any purpose,
+ including commercial applications, and to alter it and redistribute it freely,
+ subject to the following restrictions:
+ 
+ 1	The origin of this code must not be misrepresented. You must not claim
+ that you wrote the original software. When use the code, you must give
+ appropriate credit, provide a link to this license, and indicate if changes were made.
+ 
+ 2	Altered source versions must be plainly marked as such, and must not be misrepresented
+ as being the original software.
+ 
+ 3	This notice may not be removed or altered from any source distribution.
+ */
+
 
 #include <iostream>
 #include <string.h>
