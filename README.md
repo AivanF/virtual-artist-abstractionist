@@ -1,7 +1,7 @@
 # Virtual artist abstractionist
 
-This is a console C++ program that generates random abstract paintings in PNG format that I created in 2014.
-Here is the [main article with lots of generated pictures](http://www.aivanf.com/eng/note/virtual-artist).
+This is a console C++ program that generates random abstract paintings in PNG format that I created in 2013.
+Here is the [main article with lots of generated pictures](https://www.aivanf.com/en/virtual-artist).
 
 ![Difital artists screenshot 1](http://www.aivanf.com/static/abst/p02.png)
 
